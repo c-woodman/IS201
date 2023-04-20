@@ -1,0 +1,60 @@
+body{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:aliceblue;
+    color: black
+}
+
+ol{
+    list-style-position: inside;
+    
+}
+    
+ul{
+    list-style-position: inside;
+}
+
+#top{
+    text-decoration: underline;
+}
+
+ol > li{
+    font-weight: bold;
+    font-size: 18px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h2{
+    font-size: 25px;
+}
+
+h3{
+    font-size: 18px;
+}
+
+h4{
+
+}
+
+.list{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: slategrey;
+    font-size: 18px;
+}
+
+.footer{
+    color: black;
+}
+
+.header{
+    color: darkslategray;
+}
+
+a:visited {
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }
+  
